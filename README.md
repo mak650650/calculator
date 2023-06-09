@@ -1,6 +1,6 @@
 # calculator
 
-### link :-http://calculator.mishrakash.online/
+### link :-https://calculator.mishrakash.online/
 </br>
 
 </br>
