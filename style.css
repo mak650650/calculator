@@ -1,0 +1,83 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    color:white;
+    
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100dvh;
+}
+header{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+#board{
+    padding: 5px;
+    border:12px solid rgb(22, 79, 81);
+    border-radius: 20px;
+    background-color: rgb(18, 141, 141);
+}
+.screen{
+    display: flex;
+    justify-content: right;
+    padding: 10px 20px 10px 0px;
+    border:2px solid white;
+    background-color: rgb(67, 67, 67);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    
+}
+
+.calculator{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+.row{
+    display: flex;
+}
+.numbers{
+    flex: 1;
+    padding: 50px;
+    border:2px solid white;
+    font-size:20px;
+    font-weight: bolder;
+    background-color: rgb(16, 72, 72);
+    transition: 0.5 ease-in-out;
+}
+.numbers:hover{
+    background-color: aquamarine;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#operators{
+    display: flex;
+    flex-direction: row;
+}
+.opt{
+    flex: 1;
+    padding:50px;
+    border:2px solid white;
+    font-size:20px;
+    transition: 0.5 ease-in-out;
+
+}
+.cal{
+    background-color: rgb(22, 44, 44);
+}
+.equals{
+    flex:1;
+    padding: 115px 50px 115px 50px;
+}
+.opt:hover{
+    background-color: aquamarine;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+}
