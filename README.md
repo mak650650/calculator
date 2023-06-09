@@ -1,8 +1,9 @@
 # calculator
 
-Current working link :- https://calculator-7hkx0rlha-mak650650.vercel.app/
+### link :-http://calculator.mishrakash.online/
 </br>
-main link :-http://calculator.mishrakash.online/
+
 </br>
 
 <a href="https://imgur.com/G96WtTy"><img src="https://i.imgur.com/G96WtTy.png" title="source: imgur.com" /></a>
+ALt link :- https://calculator-7hkx0rlha-mak650650.vercel.app/
